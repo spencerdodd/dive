@@ -3,7 +3,7 @@ package runtime
 import (
 	"github.com/spf13/viper"
 
-	"github.com/wagoodman/dive/dive"
+	"github.com/spencerdodd/dive/dive"
 )
 
 type Options struct {

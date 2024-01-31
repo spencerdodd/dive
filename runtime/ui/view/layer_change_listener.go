@@ -1,5 +1,5 @@
 package view
 
-import "github.com/wagoodman/dive/runtime/ui/viewmodel"
+import "github.com/spencerdodd/dive/runtime/ui/viewmodel"
 
 type LayerChangeListener func(viewmodel.LayerSelection) error

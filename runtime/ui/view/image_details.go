@@ -9,9 +9,9 @@ import (
 	"github.com/dustin/go-humanize"
 	"github.com/sirupsen/logrus"
 
-	"github.com/wagoodman/dive/dive/filetree"
-	"github.com/wagoodman/dive/runtime/ui/format"
-	"github.com/wagoodman/dive/runtime/ui/key"
+	"github.com/spencerdodd/dive/dive/filetree"
+	"github.com/spencerdodd/dive/runtime/ui/format"
+	"github.com/spencerdodd/dive/runtime/ui/key"
 )
 
 type ImageDetails struct {

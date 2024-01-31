@@ -8,8 +8,8 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	"github.com/wagoodman/dive/dive"
-	"github.com/wagoodman/dive/runtime"
+	"github.com/spencerdodd/dive/dive"
+	"github.com/spencerdodd/dive/runtime"
 )
 
 // doAnalyzeCmd takes a docker image tag, digest, or id and displays the

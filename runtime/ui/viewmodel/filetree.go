@@ -10,8 +10,8 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 
-	"github.com/wagoodman/dive/dive/filetree"
-	"github.com/wagoodman/dive/runtime/ui/format"
+	"github.com/spencerdodd/dive/dive/filetree"
+	"github.com/spencerdodd/dive/runtime/ui/format"
 )
 
 // FileTreeViewModel holds the UI objects and data models for populating the right pane. Specifically the pane that

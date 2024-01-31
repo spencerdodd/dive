@@ -3,7 +3,7 @@ package export
 import (
 	"encoding/json"
 
-	diveImage "github.com/wagoodman/dive/dive/image"
+	diveImage "github.com/spencerdodd/dive/dive/image"
 )
 
 type export struct {

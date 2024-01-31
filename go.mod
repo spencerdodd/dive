@@ -1,4 +1,4 @@
-module github.com/wagoodman/dive
+module github.com/spencerdodd/dive
 
 go 1.19
 

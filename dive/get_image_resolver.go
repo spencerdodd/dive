@@ -5,9 +5,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/wagoodman/dive/dive/image"
-	"github.com/wagoodman/dive/dive/image/docker"
-	"github.com/wagoodman/dive/dive/image/podman"
+	"github.com/spencerdodd/dive/dive/image"
+	"github.com/spencerdodd/dive/dive/image/docker"
+	"github.com/spencerdodd/dive/dive/image/podman"
 )
 
 const (
